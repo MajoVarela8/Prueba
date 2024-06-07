@@ -26,7 +26,7 @@
         android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="484dp"
+        android:layout_marginTop="348dp"
         android:text="INGRESAR"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         tools:ignore="MissingConstraints"
