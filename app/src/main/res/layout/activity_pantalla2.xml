@@ -13,8 +13,8 @@
         android:layout_width="133dp"
         android:layout_height="94dp"
         android:text="@string/btn_2"
+        tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="130dp"
-        tools:layout_editor_absoluteY="58dp"
-        tools:ignore="MissingConstraints" />
+        tools:layout_editor_absoluteY="266dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
